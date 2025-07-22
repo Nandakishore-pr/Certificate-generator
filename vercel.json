@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "spa/index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
